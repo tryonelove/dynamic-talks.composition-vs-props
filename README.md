@@ -1,4 +1,7 @@
+## What is it?
 Here you can find the code for the talk "Dynamic Talks: Composition vs Props"
+
+[![Watch the video](https://img.youtube.com/vi/jQg2bc-zPVQ/maxresdefault.jpg)](https://youtu.be/jQg2bc-zPVQ?si=ZISViK3wfgEJFBXu)
 
 ## Getting Started
 
